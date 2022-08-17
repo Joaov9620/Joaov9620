@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @João Victor
-- 👀 I’m interested em compartilhar meus projetos e adquirir novos conhecimentos
-- 🌱 I’m currently  completando meu aprendizad em Desenvolvimento FullStack
-- 💞️ I’m looking to um trabalhado onde eu possa ter varias experiências e  inovações
+- 👋 Oi, eu sou @João Victor
+- 👀 Estou interessado em compartilhar meus projetos e adquirir novos conhecimentos
+- 🌱 Atualmente estou completandodo meu aprendizad em Desenvolvimento FullStack
+- 💞️ Procuro um trabalho onde eu possa ter varias experiências e  inovações
 - 📫 Meu e-mail é pjoaovictor199999@gmail.com , telefone 55 27997352631 e meu linkedin é https://www.linkedin.com/in/joão-victor-victor-065097130/
 
 <!---
