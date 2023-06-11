@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47us56mvv6pzicwahm8b17s7bqxavw0qgg27k6lph0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47us56mvv6pzicwahm8b17s7bqxavw0qgg27k6lph0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
