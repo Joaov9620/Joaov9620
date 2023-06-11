@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="156" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47us56mvv6pzicwahm8b17s7bqxavw0qgg27k6lph0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47us56mvv6pzicwahm8b17s7bqxavw0qgg27k6lph0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -37,7 +37,7 @@
 
 <div align="left">
   <a href="pjoaovictor199999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="400" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joão-victor-victor-065097130/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
